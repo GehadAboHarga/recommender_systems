@@ -2,7 +2,7 @@
 
 ## Overview
   
-The code uses the [lightfm](https://github.com/lyst/lightfm) recommender system library to train a hybrid content-based + collaborative algorithm that uses the logistic loss function on the [movielens](http://grouplens.org/datasets/movielens/) dataset. The movielens dataset contains movies and ratings from over 1700 users. Once trained, our script prints out recommended movies for whatever users from the dataset that we choose to terminal.
+The code uses the [lightfm](https://github.com/lyst/lightfm) recommender system library to train a hybrid content-based + collaborative algorithm that uses the logistic loss function on the [movielens](http://grouplens.org/datasets/movielens/) dataset. The movielens dataset contains movies and ratings from over 1700 users. Once trained, our script prints recommended movies for whatever users from the dataset that we choose to terminal.
 
 ## Dependencies
 
@@ -34,5 +34,5 @@ If you still have dependency version issues, use [virtualenv](http://docs.python
 
 ## Credits
   
-This is the code for the Recommender System challenge by @Sirajology on [YouTube](https://youtu.be/9gBC9R-msAk). 
+This is the code for the Recommender System challenge by @Sirajology on [YouTube](https://youtu.be/9gBC9R-msAk).  
 Credit goes to the [lightfm](https://github.com/lyst/lightfm) team. 
